@@ -4,7 +4,7 @@
   <img src="docs/murmur-logo.png" alt="Murmur Logo" width="200" />
 </div>
 
-**Project page:** <https://jvr0x.com/murmur/>
+**Project page:** <https://javierbits.com/murmur/>
 
 Local-first, hold-to-talk voice dictation for macOS. Hold a hotkey, speak, release —
 your speech is transcribed and inserted at the cursor in any app. Similar in spirit to
